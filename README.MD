@@ -7,7 +7,7 @@ npm install vue2-tap --save;
 ## How To use
 - Available through npm as `vue2-tap`.
 ```bash
-npm install v-tap --save; 
+npm install vue2-tap --save; 
 ```
 ```js
 //import vueTap from 'Vue2-tap'

@@ -8,7 +8,7 @@
 
 # install v-tap  
 ``` bash
-npm install v-tap --save; 
+npm install vue2-tap --save; 
 
 > * 直接引入
 ```html

@@ -41,8 +41,8 @@
             tapInfo.y2 = touch.pageY;
 
 
-            if ((tapInfo.x2 && Math.abx(tapInfo.x1 - tapInfo.x2) > 25) ||
-                (tapInfo.y2 && Math.abx(tapInfo.y1 - tapInfo.y2) > 25)) {
+            if ((tapInfo.x2 && Math.abs(tapInfo.x1 - tapInfo.x2) > 25) ||
+                (tapInfo.y2 && Math.abs(tapInfo.y1 - tapInfo.y2) > 25)) {
                 isMove = true;
             } else {
                 isMove = false;
